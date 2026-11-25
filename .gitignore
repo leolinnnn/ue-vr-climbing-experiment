@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+.vs/
+*.sln
+*.suo

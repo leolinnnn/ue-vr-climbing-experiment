@@ -1,0 +1,55 @@
+{
+  "source_snapshot": "12–13 April 2025",
+  "assets": [
+    {
+      "path": "unreal/Content/Project_0412/Blueprint/BP_GripStaticMesh.uasset",
+      "bytes": 36128,
+      "sha256": "ff5190104b6f4a37af37659279299fa50b70ec7782e5ef1e83c6214479c9de0d"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Blueprint/Character/BP_VRCharacter.uasset",
+      "bytes": 109445,
+      "sha256": "9e3378fdfa39156da705020a6b4d499d508d96a6e2b1033d7a6a5f774f055014"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Blueprint/Gamecore/BP_VRGamemode.uasset",
+      "bytes": 20865,
+      "sha256": "a2538fecc062c8c390a815d56db681708f303e720115b0a5a9046a9d476e785f"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Blueprint/player/BP_VRController.uasset",
+      "bytes": 30073,
+      "sha256": "d085d85184e750fc7042cb883ecf3ef7b8346748dd9e072038013ceb7849df2a"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Input/IA_LeftGrab.uasset",
+      "bytes": 1394,
+      "sha256": "cc0cef4ad4ffcbde8a3a37f6597ab1c56097b47c4c8e6f4012bc70a04d4a5d1e"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Input/IA_LeftThumbAxis.uasset",
+      "bytes": 1615,
+      "sha256": "dfe87e51ab7b7bd5dc7000b4642367bf48d2e3a849dd97b3b503966539fd04ca"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Input/IA_RightGrab.uasset",
+      "bytes": 1399,
+      "sha256": "24db273251d04856581cecd655435c2497cc36a3b924c3bc08b22d4fd92ea453"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Input/IA_RightThumbAxis.uasset",
+      "bytes": 1620,
+      "sha256": "a449add2c1f1c39f03181063fdbd1b19b89fb418475d5b4507ba86a16ece8748"
+    },
+    {
+      "path": "unreal/Content/Project_0412/Input/IMC_VRInputContext.uasset",
+      "bytes": 14362,
+      "sha256": "33a741b5b9a860e297b81b2084cbdb6fa1bc6d759207abb2cc81268836897bcb"
+    },
+    {
+      "path": "unreal/Content/Project_0412/MAPS/VRtest_0412.umap",
+      "bytes": 40506,
+      "sha256": "0648c6cdd106f0cfdb686953c6ca3ba181cfa14a66718546fac99d32fbd219dd"
+    }
+  ]
+}
