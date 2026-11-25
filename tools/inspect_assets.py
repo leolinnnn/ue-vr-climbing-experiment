@@ -16,7 +16,7 @@ SYMBOLS = (
 
 
 def main():
-    manifest = json.loads((ROOT / 'asset_manifest.json').read_text('utf8'))
+    manifest = json.loads((ROOT / 'source_manifest.json').read_text('utf8'))
     problems, inspected = [], []
     for item in manifest['assets']:
         path = (ROOT / item['path']).resolve()

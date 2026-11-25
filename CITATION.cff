@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite this repository when using its code or assets; see the README for the associated research record."
+type: software
+title: "VR climbing experiment: Unreal Engine prototype and research archive"
+authors:
+  - family-names: Lin
+    given-names: Zihao
+repository-code: "https://github.com/leolinnnn/ue-vr-climbing-experiment"

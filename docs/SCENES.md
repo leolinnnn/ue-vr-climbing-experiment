@@ -31,6 +31,8 @@ Source: final presentation board 4.
 25 May 2025. The design combines a faceted training hall, a glazed competition
 hall and a landscape platform.
 
+[Final section, site plan and interior perspectives](ARCHITECTURE.md).
+
 ## Figure provenance
 
 The figures are the existing web copies extracted from the final `0525_layout`
